@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	string username = "", password = "";
+	string username, password;
 	int attempts = 0;
 
 	login:
